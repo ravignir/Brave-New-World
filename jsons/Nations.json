@@ -180,7 +180,7 @@
 		"leaderName": "Enrico Dandolo",
 		"adjective": ["Venetian"],
 		"startBias": ["Coast"],
-//		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Greetings, most astute Doge Enrico Dandolo of Venice, master of statecraft and shrewd negotiator. Although you rose to power late in life, old age did little to slow your cunning or ambition, as you deftly managed the bustling commercial center of Venice during a time of great instability. In aligning yourself with the Fourth Crusade, you carefully gained a strategic advantage and used the Crusaders to reacquire lost territory for Venice. Your role in guiding the Crusaders during the sacking of Constantinople led to an even greater expansion of your power, and secured your legacy throughout history.",
 		"startIntroPart2": "Most insightful and cunning Doge, Venice once again requires the service of a skilled leader, one who can bring the republic back to the forefront of world affairs. Can you establish your nation through careful trade, or will you work to conquer your enemies through diplomacy? Can you build a civilization that will stand the test of time?",
@@ -194,7 +194,7 @@
 		"outerColor": [105,34,172],
 		"innerColor": [255,254,231],
 		"uniqueName": "Serenissima",
-		"uniques": ["+[100]% [Gold] <in capital>","Receive free [Merchant of Venice] when you discover [Optics]","Cannot build [Settler] units"],
+		"uniques": ["+[100]% [Gold] [in capital]","Receive free [Merchant of Venice] when you discover [Optics]","Cannot build [Settler] units"],
 		"cities": ["Venice"]
 	},
 	{
