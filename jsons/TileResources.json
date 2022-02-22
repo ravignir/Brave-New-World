@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Bison",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains","Grassland"],
+		"food": 1,
+		"improvement": "Camp",
+		"improvementStats": {"production": 1}
+		"uniques": ["Generated on every [24] tiles <in [Featureless] [Plains] tiles>",
+		"Generated on every [28] tiles <in [Featureless] [Grassland] tiles>"]
+	},
+	{
+		"name": "Cocoa",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle","Forest"],
+		"food": 1,
+		"gold": 1,
+		"improvement": "Plantation"
+		"uniques": ["Generated with weight [35] <in [Jungle] Regions>",
+					"Generated with weight [35] <in [Forest] Regions>",
+					"Generated with weight [15] <in [Hybrid] Regions>",
+					"Doesn't generate naturally <in [Tundra] tiles>"]
+	},
+	{
+		"name": "Nutmeg", 
+		"gold": 2,
+		"resourceType": "Luxury",
+	},
+	{
+		"name": "Cloves", 
+		"gold": 2,
+		"resourceType": "Luxury",
+	},
+	{
+		"name": "Pepper", 
+		"gold": 2,
+		"resourceType": "Luxury",
+	},
+	]

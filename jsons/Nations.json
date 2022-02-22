@@ -1,0 +1,930 @@
+[
+	// BNW
+	{
+		"name": "Poland",
+		"leaderName": "Casimir III",
+		"adjective": ["Polish"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "All hail noble King Casimir the Great, protector and sovereign of the Kingdom of Poland. You ascended to the throne during a time of great turmoil, with the nation's economy in shambles and its people demoralized by the wars of your predecessor. And yet, your reign marked the beginning of a new era, with affluence and security afforded only by way of your careful governance. Among your most notable achievements, the code of laws you established gave legal authority to many of the accepted customs of the time, strengthening the nation.",
+		"startIntroPart2": "Honored king Casimir, the people have long admired the steady hand of governance you wield. Can you return your kingdom and its subjects to a golden age of prosperity? Will you conquer all those who oppose you, or strive for peaceful relations? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "I have decided to end you!",
+		"attacked": "My armies will grind you to dust!",
+		"defeated": "Celebrate your victory well...it might be your last one.",
+		"introduction": "I, Casimir the Great, welcome you to the lands of the Great Kingdom of Poland.",
+		"neutralHello": "I salute you.",
+		"hateHello": "What are you looking for here?",
+		"tradeRequest": "How do you like my offer?",
+		"outerColor": [241,3,0],
+		"innerColor": [80,11,14],
+		"uniqueName": "Solidarity",
+		"uniques": ["[-10]% Culture cost of adopting new Policies"],
+		"cities": ["Warsaw","Kraków","Łódź","Wrocław","Poznań","Gdańsk","Szczecin","Bydgoszcz","Lublin","Sopot",
+			"Katowice","Białystok","Gdynia","Świdnica","Częstochowa","Radom","Toruń","Kielce","Gliwice","Łowicz",
+			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",
+			"Łęczyca","Wałbrzych","Zielona Góra","Włocławek"]
+	},
+	{
+		"name": "Assyria",
+		"leaderName": "Ashurbanipal",
+		"adjective": ["Assyrian"],
+		"startBias": ["Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "The people bow to your esteemed will, o wise and illustrious King Ashurbanipal of Assyria. Across the world, you are known as both a scholar and a warrior, and yet the legends represent merely a glimmer of your true ambition. Although your enemies cowered at the thought of your ferocity in conquest, you were most proud of your intellectual pursuits. Your thirst for knowledge led to your establishment of the royal library at Nineveh, which came to represent one of the greatest collections of ancient texts and tablets found anywhere in the world - securing your legacy as one of Assyria's greatest kings.",
+		"startIntroPart2": "Wise and fearsome king, the time has come for you to return the kingdom of Assyria to its greatest heights. Will you once again strive to acquire the knowledge and histories of all the world's peoples? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "I fear there is no other choice but to remove you from this world!",
+		"attacked": "I think you will come to regret this decision...most unwise.",
+		"defeated": "We may be defeated, but our legacy will live on in the written word!",
+		"introduction": "I welcome you to the great kingdom of Assyria...have you come to view my library?",
+		"neutralHello": "?",
+		"hateHello": "?",
+		"tradeRequest": "Will you consider a trade?",
+		"outerColor": [251,255,206],
+		"innerColor": [255,177,9],
+		"uniqueName": "Treasures of Nineveh",
+		"uniques": ["[+25]% [Science] [in annexed cities]"]
+		"cities": ["Assur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Sharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
+			"Shubat-Enlil","Qatna","Sareisa","Sam al","Qarqar","Til Barsip","Sultantepe","Erbil","Hamath","Guzana",
+			"Turuspa","Nasibina","Arpad","Kelashin","Urartu","Sabata","Hit"]
+	},
+	{
+		"name": "Brazil",
+		"leaderName": "Pedro II",
+		"adjective": ["Brazilian"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "All Hail his most respected and magnanimous Emperor, Pedro II of Brazil. It was with great insight and unshakeable dignity that you ruled the Brazilian empire for over 50 years, ushering in a time of lasting peace and prosperity. Your reputation as a stern, but fair leader was never blemished by controversy, as your unwavering dedication to the people of Brazil provided hope and established the kingdom's position in South America. Your scholarly pursuits and staunch defense of freedom of speech led to the creation of several institutions of higher learning, strengthening Brazil's sense of national identity.",
+		"startIntroPart2": "Revered Emperor Pedro, your people long for a return to the peaceful days when you walked among them, hearing their stories and reassuring them of a bright future. Will you once again lead your kingdom to prosperity? Can you build a civilization that stands the test of time?",
+		"declaringWar": "Your reign will be better under MY domain.",
+		"attacked": "I worry about all those who are affected by this conflict.",
+		"defeated": "This is why I prefer diplomacy to violence...",
+		"introduction": "I am Pedro, Emperor of Brazil. I have little time for pleasantries, what brings you here?",
+		"neutralHello": "Hello.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Should we prosper through commerce?",
+		"outerColor": [107,208,6],
+		"innerColor": [63,106,64],
+		"uniqueName": "Carnival",
+		"uniques": ["[+50]% [Culture] [in all cities] <during a Golden Age>","[Great Artist] is earned [50]% faster <during a Golden Age>"],
+		"cities": ["Rio de Janeiro","São Paulo","Salvador","Brasília","Fortaleza","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
+			"Belém","Goiânia","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
+			"Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju","Cuiabá", 
+			"Feira de Santana","Juiz de Fora","Joinville","Macapá","Jundiaí"]			
+	},	
+	{
+		"name": "Zulu",
+		"leaderName": "Shaka",
+		"adjective": ["Zulu"],
+		"startBias": ["Avoid [Jungle]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Your people kneel before you, great warrior Shaka of the Zulu Kingdom. As you rose from a place of exile to become the true leader of the Zulus, you ushered in changes throughout the Zulu society, implementing new laws and cultural reforms that strengthened the position of your kingdom. However, it was your tenacity in the art of war that truly established your reputation, as your tactics and strategies on the battlefield forever changed the face of combat across the plains of southern Africa.",
+		"startIntroPart2": "Most formidable king, your people once again long for the unity and strength your leadership afforded them. Can you return the Zulu kingdom to such great prominence? Will you build a civilization that stands the test of time?",
+		"declaringWar": "None will slow our progress, not even you! Prepare for war!",
+		"attacked": "Your arrogance will only lead you to defeat!",
+		"defeated": "My warriors have failed, and so I failed them.",
+		"introduction": "I'm Shaka of Zulu. Don't try to move, warrior, or I'll destroy you.",
+		"neutralHello": "Hail your Majesty!",
+		"hateHello": "You say? What are you doing here?",
+		"tradeRequest": "Approve the closure sell.",
+		"outerColor": [255,247,241],
+		"innerColor": [116,55,25],
+		"uniqueName": "Iklwa",
+		"uniques": ["[-50]% maintenance costs <for [Melee] units>","[Military] units gain [25]% more Experience from combat"],
+		"cities": ["Ulundi","Umgungundlovu","Bulawayo","KwaDukuza","Nongoma","oNdini","Nodwengu","Ndonakusuka","Babanango","Khangela",
+			"KwaHlomendlini","Hlobane","eThekwini","Mlambongwenya","Eziqwaqweni","eMangweni","Isiphezi","Masotsheni","Mtunzini","Nyakamubi","Dumazulu",
+			"Hlatikulu","Mthonjaneni","Empangeni","Pongola","Tugela","Kwamashu","Ingwavuma","Hluhluwe","Matubatuba","Mhlahlandlela",
+			"Mthatha","Maseru","Lobamba","Qunu"]
+	},	
+	{
+		"name": "Portugal",
+		"leaderName": "Maria I",
+		"adjective": ["Portuguese"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Blessings be upon you, most gracious Queen Maria, protector and sovereign of the Portuguese people. As the first ever Queen regnant of Portugal, it was your wise stewardship that protected the royal court from the incursions of Napoleon, establishing a safe haven in Brazil to preserve the integrity of Portuguese rule. Despite struggling with illness throughout your reign, your effort to ensure Portugal's close cooperation with Brazil are credited with helping that state gain its eventual independence - and for this you will always be admired and respected by the people of both nations.",
+		"startIntroPart2": "Oh noble and pious queen, will you once again guide the kingdom of Portugal in the spirit of cooperation and prosperity? Will you establish a new legacy, one that will surpass all those who come before you? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "I'm afraid I cannot allow your kingdom to exist for much longer! I hope you won't mind...",
+		"attacked": "You cannot be serious!",
+		"defeated": "I know little about this conflict...I'll have to consult my regent...",
+		"introduction": "I am Maria, Queen of Portugal! Have we met before? You look familiar to me... Or maybe not.",
+		"neutralHello": "Good morning.",
+		"hateHello": "Why did you come?",
+		"tradeRequest": "Will you consider this offer?",
+		"outerColor": [240,240,240],
+		"innerColor": [8,25,115],
+		"uniqueName": "Mare Clausum",
+		"uniques": ["[+3 Gold] from every [Luxury resource]"],
+		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Luanda",
+			"Evora","Faro","Castelo Branco","Bissau","Guarda","Viseu","Praia","Braganza","Beja","Tomar",
+			"Maputo","Tavira","Figueira da Foz","Viana do Castelo","São Tomé and Príncipe","Silves","Sintra","Dili","Lamego",
+			"Ponta Delgada"]			
+	},
+	{
+		"name": "Indonesia",
+		"leaderName": "Gajah Mada",
+		"adjective": ["Indonesian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Honour be with you, oh great hero Gajah Mada, prime minister of Majapahit and uniter of the Indonesian archipelago. The stories of your heroism on the battlefield are bested only by the legends of your sworn oath to unite the far-flung islands of Indonesia under one banner. Serving your queen and empire with loyalty, you not only strive to fulfill your oath and conquered any who stood in your path, but you succeeded in capturing what was then the entirety of the known archipelago, the first to unite what is today modern Indonesia.",
+		"startIntroPart2": "Mighty warrior Gajah Mada, your people yearn for a strong leader who can return them to prosperity! Will you set out to conquer the neighboring kingdoms, further expanding your glory of your empire? Will you build a civilization that can stand the test of time?",
+		"declaringWar": "Don't mean to stand in your way, but I have to protect them!",
+		"attacked": "How dare you! Really insignificant as well!",
+		"defeated": "You may win, but you cannot win upon my spirit.",
+		"introduction": "You came before the great warrior, Gajah Mada from Nusantara!",
+		"neutralHello": "Greetings!",
+		"hateHello": "Are you a male concubine, stranger?",
+		"tradeRequest": "What if we make a deal, you and me?",
+		"outerColor": [101,211,220],
+		"innerColor": [167,52,31],
+		"uniqueName": "Spice Islanders",
+		"uniqueText": " After researching Astronomy, 3 coastal cities each provide 2 copies of unique Luxury Resources",
+		"cities": ["Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
+			"Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
+			"Malang","Padang","Ternate","Banjarmasin","Pontianak","Cimahi","Balikpapan","Jambi","Komodo","Solo",
+			"Biak","Djawa","Kudus","Lombok","Samosir","Sragen","Garut","Gresik","Nias","Madiun",
+			"Yogyakarta","Bima","Sorong"]
+	},
+	{
+		"name": "Morocco",
+		"leaderName": "Ahmad al-Mansur",
+		"adjective": ["Moroccan"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "The people of Morocco await your guidance, great Sultan Ahmad al-Mansur of the Saadi Dynasty. Well known for your skill as both a negotiator and a diplomat, your careful words allowed the forging of new alliances, securing the sovereignty of your nation and its people for decades. And still, when words failed, you found equal success in conquest, leading the Moroccan armies to victory on the battlefield while greatly expanding the grasp of your empire.",
+		"startIntroPart2": "Wise and respected Sultan, the people look to you for leadership. Can your diplomacy match that of your rivals, or will you meet them sword in hand? Your once great kingdom yearns for that former glory - can you build a civilization that stands the test of time?",
+		"declaringWar": "The gain from the war, what will you get out of it?",
+		"attacked": "Shame on you, using violence which doesn't solve anything.",
+		"defeated": "The gain is having a clean system from corruption.",
+		"introduction": "I am the Sultan of Marrakesh Ahmad Al-Mansur, in the name of my people I welcome you!",
+		"neutralHello": "Greetings!",
+		"hateHello": "What are you doing here?",
+		"tradeRequest": "I came with all hope, but haven't reached an agreement.",
+		"outerColor": [123,3,0],
+		"innerColor": [40,179,79],
+		"uniqueName": "Gateway to Africa",
+		"uniques": ["[+1 Culture, +1 Gold] from each Trade Route"],
+		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","Salé","Ouarzazate","Meknes","Agadir","Oujda",
+			"Kenitra","Tetouan","Essaouira","Safi","Taroudannt","Mohammedia","El Aaiun","Beni Mellal","El Jadida","Ksar el Kebir",
+			"Taza","Fquih ben Salah","Khouribga","Nador","Settat","Berrechid","Larache","Khemisset","Guelmim","Dakhla",
+			"Chefchaouen","Ben Guerir","Eli Kelaa des Sraghna","Erfoud"]			
+	},
+	{
+		"name": "Venice",
+		"leaderName": "Enrico Dandolo",
+		"adjective": ["Venetian"],
+		"startBias": ["Coast"],
+//		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Greetings, most astute Doge Enrico Dandolo of Venice, master of statecraft and shrewd negotiator. Although you rose to power late in life, old age did little to slow your cunning or ambition, as you deftly managed the bustling commercial center of Venice during a time of great instability. In aligning yourself with the Fourth Crusade, you carefully gained a strategic advantage and used the Crusaders to reacquire lost territory for Venice. Your role in guiding the Crusaders during the sacking of Constantinople led to an even greater expansion of your power, and secured your legacy throughout history.",
+		"startIntroPart2": "Most insightful and cunning Doge, Venice once again requires the service of a skilled leader, one who can bring the republic back to the forefront of world affairs. Can you establish your nation through careful trade, or will you work to conquer your enemies through diplomacy? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "When you will be gone, Sir, there will be more for me!",
+		"attacked": "You have revealed your purposes too early, my friend!",
+		"defeated": "A wrong calculation, on my part.",
+		"introduction": "Welcome to Venice. I am Doge Enrico Dandolo.",
+		"neutralHello": "Greetings.",
+		"hateHello": "You! What do you want?",
+		"tradeRequest": "This offer won't be valid for a lot of time, think about it.",
+		"outerColor": [105,34,172],
+		"innerColor": [255,254,231],
+		"uniqueName": "Serenissima",
+		"uniques": ["+[100]% [Gold] <in capital>","Receive free [Merchant of Venice] when you discover [Optics]","Cannot build [Settler] units"],
+		"cities": ["Venice"]
+	},
+	{
+		"name": "Shoshone",
+		"leaderName": "Pocatello",
+		"adjective": ["Shoshone"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Blessings be upon you, wise and fearsome Chief Pocatello, revered leader of the Shoshone people. As the young chieftain of the Shoshone, you rose to face a wave of encroaching American settlements across the western United States. Forced to defend the Shoshone ancestral lands from a seemingly endless stream of new emigrants, your war band struck fear into those who would claim the sacred lands of your people. After years of strife, you skillfully avoided a direct conflict with the armies of the U.S. government, and negotiated a series of treaties in the hopes of establishing a lasting peace for the Shoshone.",
+		"startIntroPart2": "Most esteemed Pocatello, your people once again look to you for guidance. Will you conquer your enemies, driving them far from your lands? Or will you seek out peaceful diplomacy and trade? Will you build a civilization that stands the test of time?",
+		"declaringWar": "Shoshone!, We will kill the white man!",
+		"attacked": "I must make the foreigner go away!",
+		"defeated": "This will not be the end of my people, I assure you.",
+		"introduction": "I am Chief Pocatello. You have arrived in the thick of Shoshone land.",
+		"neutralHello": "Our time has arrived!",
+		"hateHello": "?",
+		"tradeRequest": "Would you listen to my proposal?",
+		"outerColor": [65,54,42],
+		"innerColor": [78,244,234],
+		"uniqueName": "Great Expanse",
+		"uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[-25]% Culture cost of natural border growth [in all cities]"],
+		"cities": ["Moson Kahni","Te-Moak","Agaidika","Goshute","Pohokwi","Washakie","Timbisha","Hukandeka","Duckwater","Tukudeka",
+			"Kuchundeka","Yomba","Kamudeka","Ely","Yambadeka","Nampa","Bannock","Yahandeka","Tetadeka","Deheyaeka",
+			"Pengwideka","Winnemucca","Skull Valley","Big Pine","Duck Valley"]
+	},
+	// City-States sorted by cityStateType, name
+	{
+		"name": "Brussels",
+		"adjective": ["Bruxellois"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [189, 144, 245],
+		"cities": ["Brussels"]
+	},
+	{
+		"name": "Florence",
+		"adjective": ["Florentine"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "And so the flower of Florence falls to barbaric hands...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [163, 115, 222],
+		"cities": ["Florence"]
+	},
+	{
+		"name": "Hanoi",
+		"adjective": ["Hanoi"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "So this is how it feels to die...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [237, 107, 7],
+		"cities": ["Hanoi"]
+	},
+	{
+		"name": "Kabul",
+		"adjective": ["Kabul"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [147, 96, 209],
+		"cities": ["Kabul"]
+	},
+	{
+		"name": "Kuala Lumpur",
+		"adjective": ["KLite"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Today, the Malay people obey you, but do not think this is over...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [120, 68, 184],
+		"cities": ["Kuala Lumpur"]
+	},
+	{
+		"name": "Lhasa",
+		"translatedName": "Lhasa",
+		"adjective": ["tibetano"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps now we will find peace in death...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [232, 230, 242],
+		"cities": ["Lhasa"]
+	},
+	{
+		"name": "Milan",
+		"adjective": ["Milanese"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [97, 44, 163],
+		"cities": ["Milan"]
+	},
+	{
+		"name": "Quebec City",
+		"adjective": ["Québécois"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We were too weak to protect ourselves...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [169, 250, 140],
+		"cities": ["Quebec City"]
+	},
+
+	{
+		"name": "Cape Town",
+		"adjective": ["Cape Town"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [134, 219, 103],
+		"cities": ["Cape Town"]
+	},
+	{
+		"name": "Manila",
+		"adjective": ["Manilan"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [86, 166, 56],
+		"cities": ["Manila"]
+	},
+	{
+		"name": "Mogadishu",
+		"adjective": ["Mogadishu"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This tribe serves you now.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [50, 120, 24],
+		"cities": ["Mogadishu"]
+	},
+	{
+		"name": "Sydney",
+		"adjective": ["Sydney"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "After thorough deliberation, Australia finds itself at a crossroads. Prepare yourself, for war is upon us.",
+		"attacked": "We will mobilize every means of resistance to stop this transgression against our nation!",
+		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [51, 171, 7],
+		"cities": ["Sydney"]
+	},
+	{
+		"name": "Ur",
+		"adjective": ["Ur"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "I will enjoy hearing your last breath as you witness the destruction of your realm!",
+		"attacked": "Why do we fight? Because Inanna demands it. Now, witness the power of the Sumerians!",
+		"defeated": "What treachery has struck us? No, what evil?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [117, 230, 181],
+		"cities": ["Ur"]
+	},
+	{
+		"name": "Vancouver",
+		"translatedName": "Vancouver",
+		"adjective": ["Vancouverite"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "In responding to the unstinting malignancy that has heretofore defined your relationship with Canada, we can have no recourse but war!",
+		"attacked": "As we can reach no peaceful resolution with you, Canada must turn, with reluctance, to war.",
+		"defeated": "I regret not defending my country to the last, although it was not of use.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [93, 212, 160],
+		"cities": ["Vancouver"]
+	},
+	{
+		"name": "Antwerp",
+		"adjective": ["Antwerp"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [245, 200, 76],
+		"cities": ["Antwerp"]
+	},
+	{
+		"name": "Genoa",
+		"adjective": ["Genoese"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How barbaric. Those who live by the sword shall perish by the sword.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [219, 171, 39],
+		"cities": ["Genoa"]
+	},
+	{
+		"name": "Kathmandu",
+		"adjective": ["Kathmandu"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We... defeated? No... we had so much work to do!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [196, 194, 207],
+		"cities": ["Kathmandu"]
+	},
+	{
+		"name": "Singapore",
+		"adjective": ["Singaporean"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [199, 152, 24],
+		"cities": ["Singapore"]
+	},
+	{
+		"name": "Tyre",
+		"adjective": ["Tyrian"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [176, 131, 7],
+		"cities": ["Tyre"]
+	},
+	{
+		"name": "Zanzibar",
+		"adjective": ["Zanzibar"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [161, 145, 0],
+		"cities": ["Zanzibar"]
+	},
+	{
+		"name": "Almaty",
+		"adjective": ["Almaty"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [227, 104, 133],
+		"cities": ["Almaty"]
+	},
+	{
+		"name": "Belgrade",
+		"adjective": ["Belgrade"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "Let's have a nice little War, shall we?",
+		"attacked": "If you need your nose bloodied, we'll happily serve.",
+		"defeated": "The serbian guerilla will never stop haunting you!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [209, 59, 94],
+		"cities": ["Belgrade"]
+	},
+	{
+		"name": "M'Banza-Kongo",
+		"adjective": ["M'Banza-Kongo"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "Do you really think you can walk over us so easily? I will not let it happen. Not to Kongo - not to my people!",
+		"attacked": "We are no strangers to war. You have strayed from the right path, and now we will correct it.",
+		"defeated": "You are nothing but a glorified barbarian. Cruel, and ruthless.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [171, 21, 56],
+		"cities": ["M'Banza-Kongo"]
+	},
+	{
+		"name": "Sidon",
+		"adjective": ["Sidon"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "What a fine battle! Sidon is willing to serve you!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [191, 8, 50],
+		"cities": ["Sidon"]
+	},
+	{
+		"name": "Valletta",
+		"adjective": ["maltese"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "We don't like your face. To arms!",
+		"attacked": "You will see you have just bitten off more than you can chew.",
+		"defeated": "This ship may sink, but our spirits will linger.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [163, 0, 0],
+		"cities": ["Valletta"]
+	},
+
+	{
+		"name": "Bratislava",
+		"adjective": ["Bratislava"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "I didn't want to do this. We declare war.",
+		"attacked": "I will fear no evil. For god is with me!",
+		"defeated": "Why have you forsaken us my lord?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [79, 29, 140],
+		"cities": ["Bratislava"]
+	},
+	{
+		"name": "Cahokia",
+		"adjective": ["Cahokia"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [194, 175, 6],
+		"cities": ["Cahokia"]
+	},
+	{
+		"name": "Jerusalem",
+		"adjective": ["Jerusalem"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May god have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [148, 146, 156],
+		"cities": ["Jerusalem"]
+	},
+// NEW CS
+	{
+		"name": "Bogota",
+		"adjective": ["Bogotian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [61, 15, 117],
+		"cities": ["Bogota"]
+	},
+		{
+		"name": "Bucharest",
+		"adjective": ["Bucharestian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [196, 113, 209],
+		"cities": ["Bucharest"]
+	},
+		{
+		"name": "Buenos Aires",
+		"adjective": ["Argentinian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [228, 101, 247],
+		"cities": ["Buenos Aires"]
+	},
+	{
+		"name": "Kiev",
+		"adjective": ["Kievan"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [190, 65, 209],
+		"cities": ["Kiev"]
+	},
+	{
+		"name": "Kyzyl",
+		"adjective": ["Kyzyl"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [190, 32, 214],
+		"cities": ["Kyzyl"]
+	},
+	{
+		"name": "Monaco",
+		"adjective": ["Monaco"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [174, 45, 194],
+		"cities": ["Monaco"]
+	},
+		{
+		"name": "Prague",
+		"adjective": ["Czech"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [139, 11, 158],
+		"cities": ["Prague"]
+	},
+	{
+		"name": "Yerevan",
+		"adjective": ["Armenian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [224, 105, 211],
+		"cities": ["Yerevan"]
+	},
+	{
+		"name": "Mombasa",
+		"adjective": ["Mombasa"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This tribe serves you now.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [49, 176, 121],
+		"cities": ["Mombasa"]
+	},
+		{
+		"name": "Ormus",
+		"adjective": ["Ormus"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This tribe serves you now.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [35, 204, 131],
+		"cities": ["Ormus"]
+	},
+	{
+		"name": "Byblos",
+		"adjective": ["Phoenician"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This tribe serves you now.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [6, 161, 94],
+		"cities": ["Byblos"]
+	},
+	{
+		"name": "Panama City",
+		"adjective": ["Panamas"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This tribe serves you now.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [136, 242, 233],
+		"cities": ["Panama City"]
+	},
+	{
+		"name": "Riga",
+		"adjective": ["Latvian"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This tribe serves you now.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [92, 204, 194],
+		"cities": ["Riga"]
+	},
+		{
+		"name": "Ragusa",
+		"adjective": ["Ragusian"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This tribe serves you now.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [37, 161, 150],
+		"cities": ["Ragusa"]
+	},
+	{
+		"name": "Wellington",
+		"adjective": ["Wellington"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This tribe serves you now.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [15, 121, 135],
+		"cities": ["Wellington"]
+	},
+	{
+		"name": "Antananarivo",
+		"adjective": ["Antananarivian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [240, 217, 14],
+		"cities": ["Antananarivo"]
+	},
+	{
+		"name": "Colombo",
+		"adjective": ["Colombian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 235, 56],
+		"cities": ["Colombo"]
+	},
+	{
+		"name": "Hong Kong",
+		"adjective": ["Hong Kong"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [242, 255, 0],
+		"cities": ["Hong Kong"]
+	},
+	{
+		"name": "Malacca",
+		"adjective": ["Malacca"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [213, 224, 2],
+		"cities": ["Malacca"]
+	},
+		{
+		"name": "Melbourne",
+		"adjective": ["Melbourne"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [175, 184, 4],
+		"cities": ["Melbourne"]
+	},
+	{
+		"name": "Samarkand",
+		"adjective": ["Samarkand"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [126, 133, 3],
+		"cities": ["Samarkand"]
+	},
+	{
+		"name": "Vilnius",
+		"adjective": ["Lithuanian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [183, 237, 5],
+		"cities": ["Vilnius"]
+	},
+	{
+		"name": "Zurich",
+		"adjective": ["Zurich"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [131, 171, 2],
+		"cities": ["Zurich"]
+	},
+	{
+		"name": "Budapest",
+		"adjective": ["Budapestian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [250, 20, 20],
+		"cities": ["Budapest"]
+	},
+		{
+		"name": "Sofia",
+		"adjective": ["Bulgarian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [232, 88, 56],
+		"cities": ["Sofia"]
+	},
+	{
+		"name": "Geneva",
+		"adjective": ["Swiss"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We... defeated? No... we had so much work to do!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [247, 237, 230],
+		"cities": ["Geneva"]
+	},
+	{
+		"name": "Ife",
+		"adjective": ["Ife"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We... defeated? No... we had so much work to do!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [209, 199, 192],
+		"cities": ["Ife"]
+	},
+	{
+		"name": "La Venta",
+		"adjective": ["Olmec"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We... defeated? No... we had so much work to do!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [120, 111, 105],
+		"cities": ["La Venta"]
+	},
+	{
+		"name": "Vatican City",
+		"adjective": ["Vatican"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We... defeated? No... we had so much work to do!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [161, 150, 143],
+		"cities": ["Vatican City"]
+	},
+	{
+		"name": "Wittenberg",
+		"adjective": ["Wittenbergian"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We... defeated? No... we had so much work to do!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [209, 241, 255],
+		"cities": ["Wittenberg"]
+	},
+]

@@ -1,0 +1,23 @@
+[
+{
+        "name": "Earth Mother",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] from every [Salt]","[+1 Faith] from every [Copper]","[+1 Faith] from every [Iron]"]
+    },
+	{
+        "name": "God-King",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Production] from every [Palace]"]
+    },
+	{
+        "name": "Sun God",
+        "type": "Pantheon",
+        "uniques": ["[+1 Food] from every [Bananas]","[+1 Food] from every [Citrus]","[+1 Food] from every [Wheat]"]
+    },
+	{
+        "name": "Tears of the Gods",
+        "type": "Pantheon",
+        "uniques": ["[+2 Faith] from every [Gems]","[+2 Faith] from every [Pearls]"]
+    },
+
+]

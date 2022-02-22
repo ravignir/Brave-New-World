@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Heavy Charge",
+		"uniques": ["[+25]% Strength <when attacking>"]
+	},
+	{
+		"name": "Buffalo Horns",
+		"uniques": ["[+1] Movement","[+10]% Strength <when defending> <vs [Ranged] units>","[+25]% to Flank Attack bonuses"],
+	},
+	{
+		"name": "Buffalo Chest",
+		"uniques": ["[+10]% Strength <when fighting in [Open terrain] tiles>","[+10]% Strength <when defending> <vs [Ranged] units>","[+25]% to Flank Attack bonuses"],
+		"prerequisites": ["Buffalo Horns"],
+		"unitTypes": ["Melee","Gunpowder"]
+	},
+	{
+		"name": "Buffalo Loins",
+		"uniques": ["[+15]% Strength","[+10]% Strength <when defending> <vs [Ranged] units>","[+25]% to Flank Attack bonuses"],
+		"prerequisites": ["Buffalo Chest"],
+		"unitTypes": ["Melee","Gunpowder"]
+	},
+	{
+		"name": "Mystic Blade", // only for Kris Swordsman and subsequent upgrades
+		"uniques": ["Access to special promotions"]
+	},
+	{
+		"name": "Invulnerability",
+		"uniques": ["[+50]% Strength <when defending>", "[+20] HP when healing"],
+		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness", "Sneak Attack", "Heroism"],
+		"unitTypes": ["Melee","Gunpowder"]
+	},
+	{
+		"name": "Sneak Attack",
+		"uniques": ["[+50]% to Flank Attack bonuses"],
+		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness", "Sneak Attack", "Heroism"],
+		"unitTypes": ["Melee","Gunpowder"]
+	},
+	{
+		"name": "Restlessness",
+		"uniques": ["[1] additional attacks per turn","[+1] Movement"],
+		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness", "Sneak Attack", "Heroism"],
+		"unitTypes": ["Melee","Gunpowder"]
+	},
+		{
+		"name": "Heroism",
+		"uniques": ["Bonus for units in 2 tile radius 15%"],
+		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness", "Sneak Attack", "Heroism"],
+		"unitTypes": ["Melee","Gunpowder"]
+	},
+			{
+		"name": "Ambition",
+		"uniques": ["[+50]% Strength <when attacking>","[-20]% Strength <when defending>"],
+		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness", "Sneak Attack", "Heroism"],
+		"unitTypes": ["Melee","Gunpowder"]
+	},
+	{
+		"name": "Homeland Guardian",
+		"uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>"]
+	},
+	{
+		"name": "Desert Warrior",
+		"uniques": ["[+50]% Strength <when fighting in [Desert] tiles>"]
+	},
+	{
+		"name": "Altitude Training",
+		"uniques": ["Double movement in [Hill]","[+10]% Strength <when fighting in [Hill] tiles>"]
+	},
+	]
