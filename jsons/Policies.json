@@ -412,7 +412,7 @@
 	},
 	{
 		"name": "Freedom",
-		"era": "Renaissance era",
+		"era": "Industrial era",
 		"uniques": ["[+25]% great person generation [in all cities]", "Unlocks building the Statue of Liberty", "Only available <before adopting [Autocracy]>", "Only available <before adopting [Order]>"],
 		"policies": [
 			{
