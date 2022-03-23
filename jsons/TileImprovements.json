@@ -30,7 +30,7 @@
 	{
 		"name": "Kasbah",
 		"uniqueTo": "Morocco",
-		"terrainsCanBeBuiltOn": ["Desert","Flood plains"],
+		"terrainsCanBeBuiltOn": ["Desert", "Flood plains"],
 		"food": 1,
 		"production": 1,
 		"gold": 1,

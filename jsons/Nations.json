@@ -19,7 +19,8 @@
 		"outerColor": [241,3,0],
 		"innerColor": [80,11,14],
 		"uniqueName": "Solidarity",
-		"uniques": ["[-10]% Culture cost of adopting new Policies"],
+		"uniques": ["[-50]% Culture cost of adopting new Policies"],
+//If you do the math with data from civivilization.fandom.com with 7 free policies out of 30, the Polish ability would be equivalent to -50% culture cost of adopting new policies, which is of course ridiculous.
 		"cities": ["Warsaw","Kraków","Łódź","Wrocław","Poznań","Gdańsk","Szczecin","Bydgoszcz","Lublin","Sopot",
 			"Katowice","Białystok","Gdynia","Świdnica","Częstochowa","Radom","Toruń","Kielce","Gliwice","Łowicz",
 			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",
@@ -194,7 +195,7 @@
 		"outerColor": [105,34,172],
 		"innerColor": [255,254,231],
 		"uniqueName": "Serenissima",
-		"uniques": ["+[100]% [Gold] [in capital]","Receive free [Merchant of Venice] when you discover [Optics]","Cannot build [Settler] units"],
+		"uniques": ["[+100]% [Gold] [in capital]","Receive free [Merchant of Venice] when you discover [Optics]","Cannot build [Settler] units"],
 		"cities": ["Venice"]
 	},
 	{

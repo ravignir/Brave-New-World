@@ -111,8 +111,8 @@
 		"requiredTech": "Metallurgy",
 		"obsoleteTech": "Combined Arms",
 		"upgradesTo": "Anti-Tank Gun",
-		"uniques": ["Can move after attacking","No defensive terrain bonus",
-			"[-33]% Strength <vs cities>","Consumes [1] [Horses]"],
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>"],
 		"promotions": ["Shock I","Formation I","Heavy Charge"],
 		"attackSound": "horse"
 	},
@@ -141,9 +141,10 @@
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
 		"upgradesTo": "Landship",
+		"requiredResource": "Horses",
 		"promotions": ["Homeland Guardian","Desert Warrior"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus",
-			"[-33]% Strength <vs cities>","Consumes [1] [Horses]"],
+			"[-33]% Strength <vs cities>"],
 		"attackSound": "horse"	
 	},
 	{
@@ -157,8 +158,9 @@
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
 		"upgradesTo": "Landship",
+		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus",
-			"[-33]% Strength <vs cities>","Consumes [1] [Horses]"],
+			"[-33]% Strength <vs cities>"],
 		"attackSound": "horse"
 	},
 	{
@@ -204,12 +206,11 @@
 		"replaces": "Infantry",
 		"movement": 2,
 		"strength": 70,
-		"cost": 420,
+		"cost": 375,
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
 		"promotions": ["Great Generals II"],
-		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
 		"attackSound": "shot"		
 	},
 	{
