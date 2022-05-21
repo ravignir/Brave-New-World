@@ -43,11 +43,10 @@
         "maintenance": 0,
         "requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
         "hurryCostModifier": 25,
-        "uniques": ["[+1 Production, +1 Gold] from [Pasture] tiles [in this city]",
-            "New [Mounted] units start with [15] Experience [in this city]","[+15]% Production when constructing [Mounted] units [in this city]",
-			"[+1 Production] from [Cattle] tiles [in this city]",
-			"[+1 Production] from [Horses] tiles [in this city]",
-			"[+1 Production] from [Sheep] tiles [in this city]"],
+        "uniques": ["New [Mounted] units start with [15] Experience [in this city]","[+15]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production, +1 Gold] from [Cattle] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Sheep] tiles [in this city]"],
         "requiredTech": "Horseback Riding"
     },
     {
