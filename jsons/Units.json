@@ -204,7 +204,7 @@
 		"replaces": "Infantry",
 		"movement": 2,
 		"strength": 70,
-		"cost": 420,
+		"cost": 375,
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
