@@ -7,7 +7,7 @@
 		"movement": 2,
 		"strength": 8,
 		"upgradesTo": "Composite Bowman",
-		"cost": 45,
+		"cost": 35,
 		"obsoleteTech": "Scientific Theory",
 		"promotions": ["Ignore terrain cost"],
 		"uniques": ["May upgrade to [Composite Bowman] through ruins-like effects"],
@@ -40,7 +40,7 @@
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-		"[+1] Sight", "Can only attack [City] units"],
+		"[+1] Sight","Can only attack [City] units"],
 		"promotions":  ["Cover I"],
 		"attackSound": "throw"
 	},

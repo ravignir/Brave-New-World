@@ -11,13 +11,13 @@
 		"name": "Buffalo Chest",
 		"uniques": ["[+10]% Strength <when fighting in [Open terrain] tiles>","[+10]% Strength <when defending> <vs [Ranged] units>","[+25]% to Flank Attack bonuses"],
 		"prerequisites": ["Buffalo Horns"],
-		"unitTypes": ["Melee","Gunpowder"]
+		"unitTypes": ["Sword","Gunpowder"]
 	},
 	{
 		"name": "Buffalo Loins",
 		"uniques": ["[+15]% Strength","[+10]% Strength <when defending> <vs [Ranged] units>","[+25]% to Flank Attack bonuses"],
 		"prerequisites": ["Buffalo Chest"],
-		"unitTypes": ["Melee","Gunpowder"]
+		"unitTypes": ["Sword","Gunpowder"]
 	},
 	{
 		"name": "Mystic Blade", // only for Kris Swordsman and subsequent upgrades
@@ -25,33 +25,33 @@
 	},
 	{
 		"name": "Invulnerability",
-		"uniques": ["[+50]% Strength <when defending>", "[+20] HP when healing"],
-		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness", "Sneak Attack", "Heroism"],
-		"unitTypes": ["Melee","Gunpowder"]
+		"uniques": ["[+50]% Strength <when defending>", "[+20] HP when healing","Only available <for units without [Ambition]>","Only available <for units without [Heroism]>","Only available <for units without [Invulnerability]>","Only available <for units without [Sneak Attack]>","Only available <for units without [Restlessness]>"],
+		"prerequisites": ["Mystic Blade"],
+		"unitTypes": ["Sword","Gunpowder"]
 	},
 	{
 		"name": "Sneak Attack",
 		"uniques": ["[+50]% to Flank Attack bonuses"],
-		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness", "Sneak Attack", "Heroism"],
-		"unitTypes": ["Melee","Gunpowder"]
+		"prerequisites": ["Mystic Blade"],
+		"unitTypes": ["Sword","Gunpowder"]
 	},
 	{
 		"name": "Restlessness",
 		"uniques": ["[1] additional attacks per turn","[+1] Movement"],
-		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness", "Sneak Attack", "Heroism"],
-		"unitTypes": ["Melee","Gunpowder"]
+		"prerequisites": ["Mystic Blade"],
+		"unitTypes": ["Sword","Gunpowder"]
 	},
 		{
 		"name": "Heroism",
-		"uniques": ["Bonus for units in 2 tile radius 15%"],
-		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness", "Sneak Attack", "Heroism"],
-		"unitTypes": ["Melee","Gunpowder"]
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles"],
+		"prerequisites": ["Mystic Blade"],
+		"unitTypes": ["Sword","Gunpowder"]
 	},
 			{
 		"name": "Ambition",
 		"uniques": ["[+50]% Strength <when attacking>","[-20]% Strength <when defending>"],
-		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness", "Sneak Attack", "Heroism"],
-		"unitTypes": ["Melee","Gunpowder"]
+		"prerequisites": ["Mystic Blade"],
+		"unitTypes": ["Sword","Gunpowder"]
 	},
 	{
 		"name": "Homeland Guardian",

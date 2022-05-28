@@ -2,12 +2,12 @@
 {
 		"name": "Chateau",
 		"uniqueTo": "France",
-		"terrainsCanBeBuiltOn": ["Grassland","Plains","Tundra","Desert"],
+		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 1,
-		"culture": 1,
+		"culture": 2,
 		"turnsToBuild":7,
 		"techRequired": "Chivalry",
-		"uniques": ["Gives a defensive bonus of [50]%","[+2 Gold, +1 Culture] <after discovering [Flight]>"]
+		"uniques": ["Can only be built on [Land] tiles <with [1] to [6] neighboring [Luxury resource] tiles>","Cannot be built on [Land] tiles <with [1] to [6] neighboring [Chateau] tiles>","Gives a defensive bonus of [50]%","[+2 Gold, +1 Culture] <after discovering [Flight]>"]
 	},
 	{
 		"name": "Brazilwood Camp",
@@ -21,11 +21,12 @@
 		{
 		"name": "Feitoria",
 		"uniqueTo": "Portugal",
+		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 7,
-		"gold": 2,
+		"gold": 1,
 		"happiness": 1,
 		"techRequired": "Navigation",
-		"uniques": ["Gives a defensive bonus of [50]%","Can only be built on Coastal tiles"]
+		"uniques": ["Gives a defensive bonus of [50]%","Can only be built on [Coastal] tiles <with [1] to [1] neighboring [City center] tiles>"]
 	},
 	{
 		"name": "Kasbah",
