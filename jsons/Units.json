@@ -82,7 +82,7 @@
 		"strength": 16,
 		"cost": 45,
 		"requiredTech": "Civil Service",
-		"uniques": ["No movement cost to pillage","[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought","Requires [Mercenary Army]" ],
+		"uniques": ["No movement cost to pillage","Unbuildable","[+50]% Strength <vs [Mounted] units>", "Can move immediately once bought","Requires [Mercenary Army]" ],
 		"upgradesTo": "Lancer",
 		"attackSound": "metalhit"
 	},
