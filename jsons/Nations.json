@@ -266,7 +266,7 @@
 		"innerColor": [185,0,0],
 		"favoredReligion": "Shinto",
 		"uniqueName": "Bushido",
-		"uniques": ["Units fight as though they were at full strength even when damaged","[+1 Culture] from every [Fishing Boats]","[+2 Culture] from every [Atoll]"],
+		"uniques": ["Damage is ignored when determining unit Strength <for [non-air] units>","[+1 Culture] from every [Fishing Boats]","[+2 Culture] from every [Atoll]"],
 		"cities": ["Kyoto","Osaka","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
 			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",

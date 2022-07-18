@@ -25,31 +25,31 @@
 	},
 	{
 		"name": "Invulnerability",
-		"uniques": ["[+50]% Strength <when defending>", "[+20] HP when healing","Incompatible with [Ambition]","Incompatible with [Restlessness]","Incompatible with [Heroism]","Incompatible with [Sneak Attack]"],
+		"uniques": ["[+50]% Strength <when defending>", "[+20] HP when healing","Only available <for units without [Ambition]>","Only available <for units without [Restlessness]>","Only available <for units without [Heroism]>","Only available <for units without [Sneak Attack]>"],
 		"prerequisites": ["Mystic Blade"],
 		"unitTypes": ["Sword","Gunpowder"]
 	},
 	{
 		"name": "Sneak Attack",
-		"uniques": ["[+50]% to Flank Attack bonuses","Incompatible with [Ambition]","Incompatible with [Restlessness]","Incompatible with [Heroism]","Incompatible with [Invulnerability]"],
+		"uniques": ["[+50]% to Flank Attack bonuses","Only available <for units without [Ambition]>","Only available <for units without [Restlessness]>","Only available <for units without [Heroism]>","Only available <for units without [Invulnerability]>"],
 		"prerequisites": ["Mystic Blade"],
 		"unitTypes": ["Sword","Gunpowder"]
 	},
 	{
 		"name": "Restlessness",
-		"uniques": ["[1] additional attacks per turn","[+1] Movement","Incompatible with [Ambition]","Incompatible with [Heroism]","Incompatible with [Sneak Attack]","Incompatible with [Invulnerability]"],
+		"uniques": ["[1] additional attacks per turn","[+1] Movement","Only available <for units without [Ambition]>","Only available <for units without [Heroism]>","Only available <for units without [Sneak Attack]>","Only available <for units without [Invulnerability]>"],
 		"prerequisites": ["Mystic Blade"],
 		"unitTypes": ["Sword","Gunpowder"]
 	},
 		{
 		"name": "Heroism",
-		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles","Incompatible with [Ambition]","Incompatible with [Restlessness]","Incompatible with [Sneak Attack]","Incompatible with [Invulnerability]"],
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles","Only available <for units without [Ambition]>","Only available <for units without [Restlessness]>","Only available <for units without [Sneak Attack]>","Only available <for units without [Invulnerability]>"],
 		"prerequisites": ["Mystic Blade"],
 		"unitTypes": ["Sword","Gunpowder"]
 	},
 			{
 		"name": "Ambition",
-		"uniques": ["[+50]% Strength <when attacking>","[-20]% Strength <when defending>","Incompatible with [Restlessness]","Incompatible with [Heroism]","Incompatible with [Sneak Attack]","Incompatible with [Invulnerability]"],
+		"uniques": ["[+50]% Strength <when attacking>","[-20]% Strength <when defending>","Only available <for units without [Restlessness]>","Only available <for units without [Heroism]>","Only available <for units without [Sneak Attack]>","Only available <for units without [Invulnerability]>"],
 		"prerequisites": ["Mystic Blade"],
 		"unitTypes": ["Sword","Gunpowder"]
 	},
