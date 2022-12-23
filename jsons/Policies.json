@@ -14,7 +14,7 @@
 				"name": "Oligarchy",
 				"uniques": ["Units in cities cost no Maintenance", "[+50]% Strength for cities <with a garrison> <when attacking>"],
 				"row": 1,
-				"column": 3
+				"column": 4
 			},
 						{
 				"name": "Legalism",
@@ -207,7 +207,7 @@
 					"[+50]% Happiness from luxury resources gifted by City-States"],
 				"requires": ["Scholasticism"],
 				"row": 3,
-				"column": 2
+				"column": 1
 			},
 			{
 				"name": "Educated Elite",
@@ -261,7 +261,7 @@
 				"uniques": ["[+2] Happiness from each type of luxury resource"],
 				"requires": ["Mercantilism","Entrapreneurship"],
 				"row": 3,
-				"column": 4
+				"column": 3
 			},
 			{
 				"name": "Commerce Complete",
@@ -281,34 +281,34 @@
 				"name": "Maritime Infrastructure",
 				"uniques": ["[+3 Production] [in all coastal cities]"],
 				"row": 1,
-				"column": 1
+				"column": 2
 			},
 						{
 				"name": "Naval Tradition",
 				"uniques": ["[+1 Happiness] from every [Lighthouse]","[+1 Happiness] from every [Harbor]","[+1 Happiness] from every [Seaport]"],
 				"row": 1,
-				"column": 3
+				"column": 4
 			},
 			{
 				"name": "Merchant Navy",
 				"uniques": ["[+1 Gold] from every [Lighthouse]","[+1 Gold] from every [Harbor]","[+1 Gold] from every [Seaport]","[+4 Production, +4 Culture] from every [East India Company]"],
-				"requires": ["Naval Tradition","Maritime Infrastructure"],
+				"requires": ["Maritime Infrastructure","Naval Tradition"],
 				"row": 2,
-				"column": 2
+				"column": 3
 			},
 			{
 				"name": "Navigation School",
 				"uniques": ["[+2 Science] [in all coastal cities]"],
 				"requires": ["Naval Tradition"],
 				"row": 2,
-				"column": 4
+				"column": 5
 			},
 			{
 				"name": "Treasure Fleets",
 				"uniques": ["[+4 Gold] from each Trade Route"],
 				"requires": ["Navigation School"],
 				"row": 3,
-				"column": 2
+				"column": 3
 			},
 			{
 				"name": "Exploration Complete",
@@ -342,21 +342,21 @@
 				"uniques": ["[+33]% [Culture] [in all cities with a world wonder]","Empire enters golden age"],
 				"requires": ["Cultural Centers", "Fine Arts"],
 				"row": 2,
-				"column": 2
+				"column": 3
 			},
 						{
 				"name": "Artistic Genius",
 				"uniques": ["Free [Great Artist] appears"],
 				"requires": ["Fine Arts"],
 				"row": 2,
-				"column": 4
+				"column": 5
 			},
 			{
 				"name": "Cultural Exchange",
 				"uniques": ["[+20]% [Culture] from every [Museum]","[+20]% [Culture] from every [Opera House]","[+20]% [Culture] from every [Broadcast Tower]"],
 				"requires": ["Flourishing of the Arts"],
 				"row": 3,
-				"column": 2
+				"column": 3
 			},
 			{
 				"name": "Aesthetics Complete",
@@ -373,7 +373,7 @@
 				"name": "Secularism",
 				"uniques": ["[+2 Science] from every specialist [in all cities]"],
 				"row": 1,
-				"column": 2
+				"column": 1
 			},
 			{
 				"name": "Humanism",
@@ -381,17 +381,17 @@
 				"row": 1,
 				"column": 5
 			},
-			{
-				"name": "Free Thought",
-				"uniques": ["[+1 Science] from every [Trading post]", "[+17]% [Science] from every [University]"],
-				"requires": ["Humanism"],
+						{
+				"name": "Sovereignty",
+				"uniques": ["[+1 Gold] from all [Science] buildings"],
+				"requires": ["Secularism"],
 				"row": 2,
 				"column": 1
 			},
 			{
-				"name": "Sovereignty",
-				"uniques": ["[+1 Gold] from all [Science] buildings"],
-				"requires": ["Secularism"],
+				"name": "Free Thought",
+				"uniques": ["[+1 Science] from every [Trading post]", "[+17]% [Science] from every [University]"],
+				"requires": ["Humanism"],
 				"row": 2,
 				"column": 5
 			},
@@ -443,7 +443,7 @@
 			{
 				"name": "Urbanization",
 				"uniques": ["[+1 Happiness] from every [Water Mill]","[+1 Happiness] from every [Hospital]","[+1 Happiness] from every [Medical Lab]"],
-				"requires": ["Capitalism","Universal Healthcare"],
+				"requires": ["Universal Healthcare","Capitalism"],
 				"row": 2,
 				"column": 4
 			},

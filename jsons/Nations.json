@@ -20,10 +20,10 @@
 		"innerColor": [80,11,14],
 		"uniqueName": "Solidarity",
 		"uniques": ["[-10]% Culture cost of adopting new Policies"],
-		"cities": ["Warsaw","Kraków","Łódź","Wrocław","Poznań","Gdańsk","Szczecin","Bydgoszcz","Lublin","Sopot",
-			"Katowice","Białystok","Gdynia","Świdnica","Częstochowa","Radom","Toruń","Kielce","Gliwice","Łowicz",
+		"cities": ["Warsaw","Kraków","�?ódź","Wrocław","Poznań","Gdańsk","Szczecin","Bydgoszcz","Lublin","Sopot",
+			"Katowice","Białystok","Gdynia","Świdnica","Częstochowa","Radom","Toruń","Kielce","Gliwice","�?owicz",
 			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",
-			"Łęczyca","Wałbrzych","Zielona Góra","Włocławek"]
+			"�?ęczyca","Wałbrzych","Zielona Góra","Włocławek"]
 	},
 	{
 		"name": "Assyria",
@@ -169,7 +169,7 @@
 		"outerColor": [123,3,0],
 		"innerColor": [40,179,79],
 		"uniqueName": "Gateway to Africa",
-		"uniques": ["[+1 Culture, +1 Gold] from each Trade Route"],
+		"uniques": ["[+1 Culture, +2 Gold] from each Trade Route"],
 		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","Salé","Ouarzazate","Meknes","Agadir","Oujda",
 			"Kenitra","Tetouan","Essaouira","Safi","Taroudannt","Mohammedia","El Aaiun","Beni Mellal","El Jadida","Ksar el Kebir",
 			"Taza","Fquih ben Salah","Khouribga","Nador","Settat","Berrechid","Larache","Khemisset","Guelmim","Dakhla",
