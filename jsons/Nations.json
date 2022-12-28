@@ -20,10 +20,10 @@
 		"innerColor": [80,11,14],
 		"uniqueName": "Solidarity",
 		"uniques": ["[-10]% Culture cost of adopting new Policies"],
-		"cities": ["Warsaw","Kraków","�?ódź","Wrocław","Poznań","Gdańsk","Szczecin","Bydgoszcz","Lublin","Sopot",
-			"Katowice","Białystok","Gdynia","Świdnica","Częstochowa","Radom","Toruń","Kielce","Gliwice","�?owicz",
-			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",
-			"�?ęczyca","Wałbrzych","Zielona Góra","Włocławek"]
+		"cities": ["Warsaw","Cracow","Lodz","Wroclaw","Poznan„","Gdansk","Szczecin","Bydgoszcz","Lublin","Sopot",
+			"Katowice","Bialystok","Gdynia","Swidnica","Czestochowa","Radom","Torun„","Kielce","Gliwice","Lowicz",
+			"Bytom","Olsztyn","Rzeszow","Ruda Slaska","Bielsko-Biala","Rybnik","Plock","Elblag","Gorzow Wielkopolski","Opole",
+			"Leczyca","Walbrzych","Zielona Gora","Wloclawek"]
 	},
 	{
 		"name": "Assyria",
@@ -69,10 +69,10 @@
 		"innerColor": [63,106,64],
 		"uniqueName": "Carnival",
 		"uniques": ["[+50]% [Culture] [in all cities] <during a Golden Age>","[Great Artist] is earned [50]% faster <during a Golden Age>"],
-		"cities": ["Rio de Janeiro","São Paulo","Salvador","Brasília","Fortaleza","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
-			"Belém","Goiânia","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
-			"Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju","Cuiabá", 
-			"Feira de Santana","Juiz de Fora","Joinville","Macapá","Jundiaí"]			
+		"cities": ["Rio de Janeiro","SÃ£o Paulo","Salvador","BrasÃ­lia","Fortaleza","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
+			"BelÃ©m","GoiÃ¢nia","Guarulhos","Campinas","SÃ£o Luis","MaceiÃ³","Duque de Caxias","Natal","Campo Grande","Teresina",
+			"FlorianÃ³polis","Nova IguaÃ§u","Sao Bernardo do Campo","JoÃ£o Pessoa","Osasco","JaboatÃ£o dos Guararapes","SÃ£o JosÃ© dos Campos","Contagem","UberlÃ¢ndia","Aracaju","CuiabÃ¡", 
+			"Feira de Santana","Juiz de Fora","Joinville","MacapÃ¡","JundiaÃ­"]			
 	},	
 	{
 		"name": "Zulu",
@@ -121,7 +121,7 @@
 		"uniques": ["[+3 Gold] from every [Luxury resource]"],
 		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Luanda",
 			"Evora","Faro","Castelo Branco","Bissau","Guarda","Viseu","Praia","Braganza","Beja","Tomar",
-			"Maputo","Tavira","Figueira da Foz","Viana do Castelo","São Tomé and Príncipe","Silves","Sintra","Dili","Lamego",
+			"Maputo","Tavira","Figueira da Foz","Viana do Castelo","SÃ£o TomÃ© and PrÃ­ncipe","Silves","Sintra","Dili","Lamego",
 			"Ponta Delgada"]			
 	},
 	{
@@ -170,7 +170,7 @@
 		"innerColor": [40,179,79],
 		"uniqueName": "Gateway to Africa",
 		"uniques": ["[+1 Culture, +2 Gold] from each Trade Route"],
-		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","Salé","Ouarzazate","Meknes","Agadir","Oujda",
+		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","SalÃ©","Ouarzazate","Meknes","Agadir","Oujda",
 			"Kenitra","Tetouan","Essaouira","Safi","Taroudannt","Mohammedia","El Aaiun","Beni Mellal","El Jadida","Ksar el Kebir",
 			"Taza","Fquih ben Salah","Khouribga","Nador","Settat","Berrechid","Larache","Khemisset","Guelmim","Dakhla",
 			"Chefchaouen","Ben Guerir","Eli Kelaa des Sraghna","Erfoud"]			
@@ -347,7 +347,7 @@
 	},
 	{
 		"name": "Quebec City",
-		"adjective": ["Québécois"],
+		"adjective": ["QuÃ©bÃ©cois"],
 		"cityStateType": "Maritime",
 
 		"declaringWar": "You leave us no choice. War it must be.",
