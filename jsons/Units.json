@@ -100,6 +100,22 @@
 		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Samurai",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Japan",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"requiredResource": "Iron",
+		"promotions": ["Shock I", "Great Generals II"],
+		"attackSound": "metalhit"
+		//Samurai should also create Fishing Boats (not now, surely)
+	},
 		{
 		"name": "Winged Hussar", 
 		"replaces": "Lancer",
