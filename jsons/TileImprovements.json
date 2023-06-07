@@ -26,7 +26,7 @@
 		"gold": 1,
 		"happiness": 1,
 		"techRequired": "Navigation",
-		"uniques": ["Gives a defensive bonus of [50]%","Can only be built on [Coastal] tiles <with [1] to [1] neighboring [City center] tiles>"]
+		"uniques": ["Gives a defensive bonus of [50]%",,"Must be next to [City center]","Can only be built on [Coastal] tiles"]
 	},
 	{
 		"name": "Kasbah",
