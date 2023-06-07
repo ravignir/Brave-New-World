@@ -82,7 +82,7 @@
 		"strength": 16,
 		"cost": 45,
 		"requiredTech": "Civil Service",
-		"uniques": ["No movement cost to pillage","Unbuildable","[+50]% Strength <vs [Mounted] units>","Can move immediately once bought","Only available <after adopting [Mercenary Army]>","Earn [100]% of the damage done to [city] units as [Gold]"],
+		"uniques": ["No movement cost to pillage","Unbuildable","[+50]% Strength <vs [Mounted] units>","Can move immediately once bought","Only available <after adopting [Mercenary Army]>","Earn [100]% of the damage done to [City] units as [Gold]"],
 		"upgradesTo": "Lancer",
 		"attackSound": "metalhit"
 	},
