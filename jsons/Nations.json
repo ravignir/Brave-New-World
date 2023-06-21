@@ -69,10 +69,10 @@
 		"innerColor": [63,106,64],
 		"uniqueName": "Carnival",
 		"uniques": ["[+50]% [Culture] [in all cities] <during a Golden Age>","[Great Artist] is earned [50]% faster <during a Golden Age>"],
-		"cities": ["Rio de Janeiro","SÃ£o Paulo","Salvador","BrasÃ­lia","Fortaleza","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
-			"BelÃ©m","GoiÃ¢nia","Guarulhos","Campinas","SÃ£o Luis","MaceiÃ³","Duque de Caxias","Natal","Campo Grande","Teresina",
-			"FlorianÃ³polis","Nova IguaÃ§u","Sao Bernardo do Campo","JoÃ£o Pessoa","Osasco","JaboatÃ£o dos Guararapes","SÃ£o JosÃ© dos Campos","Contagem","UberlÃ¢ndia","Aracaju","CuiabÃ¡", 
-			"Feira de Santana","Juiz de Fora","Joinville","MacapÃ¡","JundiaÃ­"]			
+		"cities": ["Rio de Janeiro","São Paulo","Salvador","Brasília","Fortaleza","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
+			"Belém","Goiânia","Guarulhos","Campinas","SÃ£o Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
+			"Florianópolis","Nova Iguaçu","São Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju","Cuiabá", 
+			"Feira de Santana","Juiz de Fora","Joinville","Macapá","Jundiaí"]			
 	},	
 	{
 		"name": "Zulu",
