@@ -255,7 +255,7 @@
 		"replaces": "Great Merchant",
 		"unitType": "Civilian",
 		"movement": 2,
-		"uniques": ["Great Person - [Gold]","Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence",
+		"uniques": ["Great Person - [Gold]","Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence",
 			"Can instantly construct a [Customs house] improvement <by consuming this unit>","Double movement in [Coast]","Unbuildable","Uncapturable"]
 	},
 	]
