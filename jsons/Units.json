@@ -1,6 +1,6 @@
 [
 {
-		"name": "Pathfinder", 
+		"name": "Pathfinder",
 		"unitType": "Scout",
 		"replaces": "Scout",
 		"uniqueTo": "Shoshone",
@@ -14,7 +14,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Hand-Axe", 
+		"name": "Hand-Axe",
 		"replaces": "Chariot Archer",
 		"uniqueTo": "Barbarians"
 		"unitType": "Archery",
@@ -45,7 +45,7 @@
 		"attackSound": "throw"
 	},
 	{
-		"name": "Kris Swordsman", 
+		"name": "Kris Swordsman",
 		"replaces": "Swordsman",
 		"unitType": "Sword",
 		"uniqueTo": "Indonesia",
@@ -87,7 +87,7 @@
 		"attackSound": "metalhit"
 	},
 		{
-		"name": "Impi", 
+		"name": "Impi",
 		"replaces": "Pikeman",
 		"uniqueTo": "Zulu",
 		"unitType": "Sword",
@@ -117,7 +117,7 @@
 		//Samurai should also create Fishing Boats (not now, surely)
 	},
 		{
-		"name": "Winged Hussar", 
+		"name": "Winged Hussar",
 		"replaces": "Lancer",
 		"uniqueTo": "Poland",
 		"unitType": "Mounted",
@@ -133,7 +133,7 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Nau", 
+		"name": "Nau",
 		"uniqueTo": "Portugal",
 		"replaces": "Caravel",
 		"unitType": "Melee Water",
@@ -147,7 +147,7 @@
 		"uniques": ["Can move after attacking","[+1] Sight","May withdraw before melee ([50]%)","Can undertake a trade mission with City-State, giving a large sum of gold and [0] Influence"],
 	},
 	{
-		"name": "Berber Cavalry", 
+		"name": "Berber Cavalry",
 		"replaces": "Cavalry",
 		"unitType": "Mounted",
 		"uniqueTo": "Morocco",
@@ -160,10 +160,10 @@
 		"promotions": ["Homeland Guardian","Desert Warrior"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus",
 			"[-33]% Strength <vs cities>","Consumes [1] [Horses]"],
-		"attackSound": "horse"	
+		"attackSound": "horse"
 	},
 	{
-		"name": "Comanche Rider", 
+		"name": "Comanche Rider",
 		"unitType": "Mounted",
 		"replaces": "Cavalry",
 		"uniqueTo": "Shoshone",
@@ -214,7 +214,7 @@
 		"attackSound": "machinegun"
 	},
 	{
-		"name": "Pracinha", 
+		"name": "Pracinha",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Brazil",
 		"replaces": "Infantry",
@@ -226,7 +226,7 @@
 		"obsoleteTech": "Mobile Tactics",
 		"promotions": ["Great Generals II"],
 		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
-		"attackSound": "shot"		
+		"attackSound": "shot"
 	},
 	{
 		"name": "Paratrooper",
@@ -255,7 +255,7 @@
 		"replaces": "Great Merchant",
 		"unitType": "Civilian",
 		"movement": 2,
-		"uniques": ["Great Person - [Gold]","Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence",
+		"uniques": ["Great Person - [Gold]","Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence",
 			"Can instantly construct a [Customs house] improvement <by consuming this unit>","Double movement in [Coast]","Unbuildable","Uncapturable"]
 	},
 	]

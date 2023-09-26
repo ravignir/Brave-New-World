@@ -194,7 +194,7 @@
 		"outerColor": [105,34,172],
 		"innerColor": [255,254,231],
 		"uniqueName": "Serenissima",
-		"uniques": ["[+100]% [Gold] [in capital]","Receive free [Merchant of Venice] when you discover [Optics]","Cannot build [Settler] units"],
+		"uniques": ["[+100]% [Gold] [in capital]","Receive free [Merchant of Venice] when you discover [Optics]","Cannot build [Settler] units", "[+100]% Gold from Great Merchant trade missions"],
 		"cities": ["Venice"]
 	},
 	{
