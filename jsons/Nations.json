@@ -1,6 +1,28 @@
 [
 	// BNW
 	{
+		"name": "Palestine",
+		"leaderName": "Ahmed Yasin",
+		"adjective": ["Palestinian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Culture,
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"declaringWar": "Accept Islam. Or live under its protection.",
+		"attacked": "Fight in the name of Allah and in the way of Allah. Fight against those who disbelieve in Allah. Strive for the Truth, do not embezzle the spoils; do not break your pledge; and do not mutilate (the dead) bodies; do not kill the children.",
+		"defeated": "Think not of those who are slain in Allah's way as dead. Nay, they live, finding their sustenance in the presence of their Lord.",
+		"introduction": "Peace be upon you. I am Ahmed Yasin, I am Ahmed Yasin, the servant of Allah.",
+		"neutralHello": "Peace be upon you.",
+		"hateHello": "What do YOU want?!",
+		"tradeRequest": "I got a deal for you.",
+		"outerColor": [0, 151, 54],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Islam",
+		"uniqueName": "From the River to the Sea",
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith] <when fighting in [Enemy Land] tiles>", "Earn [100]% of killed [Military] unit's [Strength] as [Culture] <when fighting in [Friendly Land] tiles>", "Gain [10] [Happiness] and [100] [Faith] <when [Military] units won battle>", "Gain [50] [Faith] <upon discovering a Natural Wonder, "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500])", "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500])", "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500])", "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500])", "May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]), "[+40]% Production when constructing [Science] buildings [in all cities]","[+40]% Production when constructing [Culture] buildings [in all cities]", "All newly-trained units [in all cities] receive the [Shock III] and [Cover II] promotion", "[Faith] cost of purchasing items in cities [-90]%", "[-90]% maintenance on road & railroads",],
+		"cities": ["Jerusalem","Gaza","Khan Younis","el-Khalil","Nablus","Rafah","Deir el-Balah","Beit Lahia","Tulkarm","Ma`ale Adummim","Bethlehem","Surif","Ramallah"]
+	},
+	{
 		"name": "Poland",
 		"leaderName": "Casimir III",
 		"adjective": ["Polish"],
