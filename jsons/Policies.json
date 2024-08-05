@@ -224,6 +224,33 @@
 		]
 	},
 	{
+		"name": "Islamization",
+		"era": "Medieval era",
+		"uniques": ["[+100 Faith] [in capital]","[+25 Science, +50 Culture, +10 Happiness] [in all cities]", "[-75]% Culture cost of natural border growth [in all cities]"],
+		"policies": [
+			{
+				"name": "Vicegerency",
+				"uniques": ["[+15 Food, +15 Production, +15 Science, +15 Gold,] [in all cities]"],
+				"row": 1,
+				"column": 1
+			},
+			{
+				"name": "Servant of Allah",
+				"uniques": ["Gain a free [Mosque] and [+50 Faith] [in all cities]"],
+				"row": 1,
+				"column": 3
+			},
+			{
+				"name": "First Revelation",
+				"uniques":["[+15 Science] in all your cities"],
+				"row": 1,
+				"column": 5
+			},
+			{
+				"name": "Islamization Complete",
+				"uniques": ["[+45]% growth [in all cities]"]
+	},
+	{
 		"name": "Commerce",
 		"uniques": ["[+25]% [Gold] [in capital]", "Unlocks building Big Ben"],
 		"era": "Medieval era",
