@@ -1,5 +1,5 @@
 [
-{
+    {
         "name": "Earth Mother",
         "type": "Pantheon",
         "uniques": ["[+1 Faith] from every [Salt]","[+1 Faith] from every [Copper]","[+1 Faith] from every [Iron]"]
@@ -18,6 +18,5 @@
         "name": "Tears of the Gods",
         "type": "Pantheon",
         "uniques": ["[+2 Faith] from every [Gems]","[+2 Faith] from every [Pearls]"]
-    },
-
+    }
 ]

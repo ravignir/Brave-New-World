@@ -1,5 +1,5 @@
 [
-{
+	{
 		"name": "Chateau",
 		"uniqueTo": "France",
 		"terrainsCanBeBuiltOn": ["Land"],
@@ -38,5 +38,5 @@
 		"turnsToBuild": 7,
 		"techRequired": "Chivalry",
 		"uniques": ["Gives a defensive bonus of [50]%"]
-	},
-	]
+	}
+]

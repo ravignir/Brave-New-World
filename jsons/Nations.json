@@ -194,7 +194,11 @@
 		"outerColor": [105,34,172],
 		"innerColor": [255,254,231],
 		"uniqueName": "Serenissima",
-		"uniques": ["[+100]% [Gold] [in capital]","Receive free [Merchant of Venice] when you discover [Optics]","Cannot build [Settler] units"],
+		"uniques": [
+			"[+100]% [Gold] [in capital]",
+			"Free [Merchant of Venice] appears <upon discovering [Optics] technology>",
+			"Cannot build [Settler] units"
+		],
 		"cities": ["Venice"]
 	},
 	{
@@ -266,7 +270,7 @@
 		"innerColor": [185,0,0],
 		"favoredReligion": "Shinto",
 		"uniqueName": "Bushido",
-		"uniques": ["Damage is ignored when determining unit Strength <for [non-air] units>","[+1 Culture] from every [Fishing Boats]","[+2 Culture] from every [Atoll]"],
+		"uniques": ["No damage penalty for wounded units <for [non-air] units>","[+1 Culture] from every [Fishing Boats]","[+2 Culture] from every [Atoll]"],
 		"cities": ["Kyoto","Osaka","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
 			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",

@@ -16,7 +16,7 @@
 	{
 		"name": "Hand-Axe", 
 		"replaces": "Chariot Archer",
-		"uniqueTo": "Barbarians"
+		"uniqueTo": "Barbarians",
 		"unitType": "Archery",
 		"movement": 2,
 		"strength": 9,
@@ -144,7 +144,7 @@
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ironclad",
 		"obsoleteTech": "Combustion",
-		"uniques": ["Can move after attacking","[+1] Sight","May withdraw before melee ([50]%)","Can undertake a trade mission with City-State, giving a large sum of gold and [0] Influence"],
+		"uniques": ["Can move after attacking","[+1] Sight","Withdraws before melee combat <with [50]% chance>","Can undertake a trade mission with City-State, giving a large sum of gold and [0] Influence"],
 	},
 	{
 		"name": "Berber Cavalry", 
